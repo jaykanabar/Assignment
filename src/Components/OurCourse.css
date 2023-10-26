@@ -1,0 +1,25 @@
+#course{
+    background-color:  #EAEAEA;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.courseslog{
+    
+color: #0540F2;
+text-align: center;
+ font-size: 50px;
+ font-family: Belanosima;
+ font-weight: 400;
+ word-wrap: break-word;
+}
+.coursesmallslog{
+    margin: 40px 180px 0 180px;
+    text-align: center;
+    color: #222222;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+}

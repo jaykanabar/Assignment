@@ -1,0 +1,96 @@
+#aboutus{
+    background-color:  #EAEAEA;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.aboutus{
+  margin: 170px 0 0 70px;
+}
+.aboutslogan{
+  
+  display: flex;
+  flex-direction: row;
+}
+.aboutusnote{
+  
+  
+  text-align: justify;
+     color: #0540F2;
+    font-size: 30px;
+    font-family: Belanosima; 
+    font-weight: 400;
+     /* line-height: 69.06; */
+      word-wrap: break-word;
+    }
+    .smallnote{
+      text-align: justify;
+      margin:45px 0 0 68px;
+      color: #222222;
+     font-size: 20px;
+     font-family: Montserrat;
+     font-weight: 400;
+     word-wrap: break-word;
+    }
+    .about-image{
+      display: flex;
+      flex-direction: row;
+      margin: 41px 0 0 0;
+    }
+    
+    .content-13{
+      text-align: justify;
+    }
+    .button-13{
+      margin-top: 69px;
+      margin-left: 0px;
+      width: 269px; height: 53px; background: #0540F2; border-radius: 60px;
+    color: white; 
+    
+    }
+    .rectangle13-sub{
+      padding:31px 35px 32px 35px;
+      z-index: 2;
+      background-color: white;
+      width: 126px ;
+      height: 150px;
+      margin:179px 0 473px -25px ;
+      border-radius: 25px;
+      
+    }
+    .imaging{
+      display: flex;
+      flex-direction: row;
+      
+    }
+    .rectangle13-main{
+      margin: 0 0 0 -25px;
+    }
+    .blocks-heading{
+  padding-top: 36px;  
+  padding-bottom: 0px;
+color: #0540F2;
+ font-size: 32px;
+ font-family: Belanosima;
+ font-weight: 400;
+ word-wrap: break-word;
+    }
+    .blocks-para{
+ padding-bottom: 36px;     
+color: #222222;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 400;
+
+ word-wrap: break-word;
+    }
+    .blocks{
+      margin-left: 78px;
+      text-align: center;
+      width: 184px;
+      height: 133px;
+      background-color: white;
+      border-radius: 25px;
+    }
+    

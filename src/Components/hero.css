@@ -1,0 +1,110 @@
+#home{
+    display: flex;
+    flex-direction: column;
+    width : 100%;
+    height: 1000px;
+    background: rgba(0, 0, 0, 0.65)url("../Assets/Rectangle6.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    
+    
+  }
+  .Slogan{
+    margin: 163px 0 0 0;
+    width: 100%;
+    text-align: center; 
+    color: white;
+    font-size: 60px;
+    font-family: Belanosima;
+    font-weight: 400;
+    /* line-height: ; */
+      word-wrap: break-word;
+  }
+  .navbar {
+    display: flex;
+    flex-direction: row; /* Change to row */
+    width: 1300px;
+    height: 44px;
+    flex-shrink: 0;
+    margin: 22px 70px 0 70px;
+}
+
+.title {
+    /* Keep your existing styles */
+    margin: 9px 0 0 306px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:#FFF;
+    font-family: Belanosima;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.menu-option-I{
+    margin: 9px 0 0 0;
+    display: flex;
+    flex-direction: row;
+    color: #FFF;
+    font-family: Belanosima;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu-option-II{
+    margin: 9px 0 0 40px;
+    display: flex;
+    flex-direction: row;
+    color: #FFF;
+    font-family: Belanosima;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu-option-III{
+    margin: 9px 0 0 349px;
+    display: flex;
+    flex-direction: row;
+    color: #FFF;
+    font-family: Belanosima;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.menu-option-IV{
+    margin: 9px 0 0 40px;
+    display: flex;
+    flex-direction: row;
+    color: #FFF;
+    font-family: Belanosima;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.smallslogan{
+    margin: 40px 28px 0px 28px;
+  color: white;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word
+}
+.getstarted{
+    margin: 60px 80px 228px 0;
+    width: 269px; height: 53px; background: #0540F2; border-radius: 60px;
+    color: white; 
+}
+.learnmore{
+        width: 269px; height: 53px; background:black; border-radius: 60px; 
+        color: white;
+    
+}
+
+  
