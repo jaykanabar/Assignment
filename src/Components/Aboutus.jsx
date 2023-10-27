@@ -11,7 +11,7 @@ export const Aboutus=()=>{
             <div className="aboutus">
             <div className="aboutslogan">
             <div className="aboutusnote"> 
-            <h1>Univerz's Commitment to<br/> Academic Excellence</h1>
+            <h1>Univerz's Commitment to <br/> Academic Excellence</h1>
             </div>
             <div className="smallnote">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing <br/>elit. Aenean tristique, tortor nec consequat vulputate.</p>

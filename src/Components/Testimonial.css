@@ -1,0 +1,81 @@
+
+#testimonial{
+    background-color:  #EAEAEA;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.flex_dis {
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.FULL_WIDTH {
+    width: 100%;
+}
+.DEFINED_WIDTH {
+    width: 100%;
+    margin: 0 auto;
+
+}
+.large-font {
+    margin:90px 422px 40px 422px;   
+color:white;
+text-align: center;
+ font-size: 64px;
+ font-family: Belanosima;
+ font-weight: 400;
+ word-wrap: break-word;
+}
+.small-font{
+    
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.blue_box {
+    width: 30%;
+    height: 200px;
+    background-color: blue;
+    border-radius: 25px;
+}
+.button_div {
+    margin: 60px 80px 228px 0;
+    width: 269px; height: 53px; background: #0540F2; border-radius: 60px;
+    color: white; 
+}
+
+.image_div {
+    width: 607px;
+    height: 534px;
+    top: 3466px;
+    left: 70px;
+    border-radius: 25px;
+}
+
+
+
+.bg_blue {
+    background-color: blue;
+    color: white;
+}
+.round_image {
+    width: 145px;
+    height: 145px;
+    top: 4568px;
+    left: 647px;
+    margin: 0 auto;
+}
+.person_name {
+    margin: 15px auto;
+}
+
+

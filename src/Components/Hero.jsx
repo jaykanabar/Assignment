@@ -9,11 +9,11 @@ export const  Hero=()=>{
       <section id="home">
      
         <div className="navbar">
-        <a className="menu-option-I">Home </a>
-        <a className="menu-option-II">About Us</a>
-        <h1 className="title">Univerz University</h1>
-        <a className="menu-option-III">Course </a>
-        <a className="menu-option-IV">Blog</a>
+        <a className="menu-option-I" href="#home">Home </a>
+        <a className="menu-option-II" href="#aboutus">About Us</a>
+        <h1 className="title" >Univerz University</h1>
+        <a className="menu-option-III" href="#course">Course </a>
+        <a className="menu-option-IV" href="#blog">Blog</a>
                 
            
                     
